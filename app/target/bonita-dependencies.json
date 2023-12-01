@@ -1,0 +1,11 @@
+{
+  "connectorImplementations" : [ ],
+  "filterImplementations" : [ ],
+  "connectorDefinitions" : [ ],
+  "filterDefinitions" : [ ],
+  "restApiExtensions" : [ ],
+  "pages" : [ ],
+  "forms" : [ ],
+  "themes" : [ ],
+  "issues" : [ ]
+}
