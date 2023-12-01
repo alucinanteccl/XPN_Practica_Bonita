@@ -1,0 +1,8 @@
+com\company\model\Producto.class
+com\company\model\IncidenciaDAO.class
+com\company\model\ProductoDAO.class
+com\company\model\UsuarioDAO.class
+com\company\model\Usuario.class
+com\company\model\Compra.class
+com\company\model\CompraDAO.class
+com\company\model\Incidencia.class
